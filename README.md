@@ -40,6 +40,17 @@ This project explores using reinforcement learning to automate robot assistance 
 
 - Alternatively, modular pipeline with vision, control, imitation learning may be better suited
 
+## Simulation
+
+Packages Required - Assistive Gym, stablebaselines3, os, multiprocessing, numpngw, IPython.display
+The code has been adapted for google Colab
+
+Trained model can be found in "In" subfolder
+Outputs can be found in the "Out" subfolder
+The python notebook can be found in the "Code" subfolder
+
+Please contact me at spauly@umd.edu, if facing any issues with the code.
+
 ## References
 
 [1] Erickson et al., Assistive Gym  
